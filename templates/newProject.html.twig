@@ -1,0 +1,57 @@
+{%  extends "menu.html.twig" %}
+
+
+
+{% block body %}
+<style>
+    .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
+    .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+</style>
+
+    <main class='main-content bgc-grey-100'>
+        <div id='mainContent'>
+            <div class="row gap-20 masonry pos-r">
+                <div class="masonry-sizer col-md-6"></div>
+                <div class="masonry-item col-md-6">
+                    <div class="bgc-white p-20 bd">
+                        <h6 class="c-grey-900">New project</h6>
+                        <div class="mT-30">
+
+                                {{ form_start(projectForm) }}
+
+                                        <div class="form-group">
+                                            {{ form_row(projectForm.Title, {'attr': {'class': 'form-control'}}) }}
+                                        </div>
+
+                                        <div class="form-group">
+                                            {{ form_row(projectForm.Country, {'attr': {'class': 'form-control'}}) }}
+                                        </div>
+
+                                        <div class="form-group">
+                                            {{ form_row(projectForm.Responsible, {'attr': {'class': 'form-control'}}) }}
+                                        </div>
+
+                                        <div class="form-group">
+                                            {{ form_row(projectForm.Content_status, {'attr': {'class': 'form-control'}}) }}
+                                        </div>
+
+                                        <div class="form-group">
+                                            {{ form_row(projectForm.Video_status, {'attr': {'class': 'form-control'}}) }}
+                                        </div>
+
+                                        {{ form_widget(projectForm) }}
+                                        <button type="submit" class="btn btn-primary">Create</button>
+
+                                {{ form_end(projectForm) }}
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </div>
+    </main>
+{% endblock body %}

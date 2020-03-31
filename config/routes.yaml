@@ -1,0 +1,24 @@
+login:
+    path: /
+    controller: App\Controller\SecurityController::login
+
+
+home:
+    path: /home
+    controller: App\Controller\HomeController::default
+
+project:
+        path: /project/new
+        controller: App\Controller\ProjectController::new
+
+editProject:
+    path: /project/edit/{id}
+    controller: App\Controller\ProjectController::edit
+
+deleteProject:
+    path: /project/delete/{id}
+    controller: App\Controller\ProjectController::delete
+
+projects:
+        path: /project/all
+        controller: App\Controller\ProjectController::index

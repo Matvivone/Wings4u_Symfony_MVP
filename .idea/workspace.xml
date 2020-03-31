@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36810cd7-65b7-42f8-9f31-d2e93d7cbc83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="symfonator@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="symfonator@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="symfonator@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="symfonator: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="login_test_project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_show_addresses="true" hide_empty_superglobals="false" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="1f1596e7-957e-42fc-af01-507be14ed66d" name="localhost" port="8000" />
+      <server host="127.0.0.1" id="ab725412-ab29-47b5-bac0-d184bf88f9f8" name="127.0.0.1" port="8001" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/symfony/apache-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/vendor/symfony/form" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZLhOb92raWmcnx3wftU61X0pJX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matia\Desktop\Symphony\login_test_project\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matia\Desktop\Symphony\login_test_project\templates" />
+      <recent name="C:\Users\matia\Desktop\Symphony\login_test_project\src\Controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.debug">
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" host="127.0.0.1" port="8000">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/bin/console" scriptParameters="server:run">
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/bin/console" scriptParameters="server:run">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="webpage_debug" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" start_url="/login">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.debug" />
+      <item itemvalue="PHP Web Page.webpage_debug" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1271645" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:symfonator@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:symfonator@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@fee50f1" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36810cd7-65b7-42f8-9f31-d2e93d7cbc83" name="Default Changelist" comment="" />
+      <created>1584624250887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584624250887</updated>
+      <workItem from="1584624252085" duration="1938000" />
+      <workItem from="1584626203824" duration="1729000" />
+      <workItem from="1584628073239" duration="7317000" />
+      <workItem from="1584660465953" duration="4153000" />
+      <workItem from="1584668406836" duration="9318000" />
+      <workItem from="1584733469104" duration="262000" />
+      <workItem from="1584733753894" duration="24799000" />
+      <workItem from="1585161412038" duration="7553000" />
+      <workItem from="1585190487400" duration="6177000" />
+      <workItem from="1585229062233" duration="6148000" />
+      <workItem from="1585279991651" duration="267000" />
+      <workItem from="1585280727965" duration="6646000" />
+      <workItem from="1585329470690" duration="7851000" />
+      <workItem from="1585600674276" duration="3182000" />
+      <workItem from="1585680564428" duration="10638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1584733434842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1584733434842" />
+    <state x="552" y="178" key="#Inspections" timestamp="1585194081006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1585194081006" />
+    <state x="667" y="111" key="#PHP" timestamp="1584626672144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="111" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1584626672144" />
+    <state x="540" y="175" key="#Servers" timestamp="1584731662449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1584731662449" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585332121404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585332121404" />
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1585282564148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585282564148" />
+    <state x="683" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585284891045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585284891045" />
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1585193922227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585193922227" />
+    <state x="679" y="215" key="#debug" timestamp="1584632699177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="215" key="#debug/0.0.1920.1040@0.0.1920.1040" timestamp="1584632699177" />
+    <state width="631" height="466" key="DebuggerActiveHint" timestamp="1585691946321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="631" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1585691946321" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585176916216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585176916216" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1585692003147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1585692003147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1585692003147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1585692003147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom" timestamp="1585692003148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003148" />
+    <state width="1877" height="241" key="GridCell.Tab.1.center" timestamp="1585692003148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003148" />
+    <state width="1877" height="241" key="GridCell.Tab.1.left" timestamp="1585692003147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
+    <state width="1877" height="241" key="GridCell.Tab.1.right" timestamp="1585692003148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003148" />
+    <state x="688" y="334" key="NewPhpClassDialog" timestamp="1585282442012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="334" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585282442012" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584733437515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584733437515" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1584713891923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584713891923" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585680566267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585680566267" />
+    <state x="521" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584712658520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="521" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1584712658520" />
+    <state x="291" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1584733428718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="291" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584733428718" />
+    <state x="701" y="162" key="refactoring.ChangeSignatureDialog" timestamp="1584735948489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="162" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584735948489" />
+    <state x="574" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585162240388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585162240388" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/Controller/HomeController.php</url>
+          <line>36</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/Controller/ProjectController.php</url>
+          <line>114</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
