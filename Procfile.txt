@@ -1,1 +1,1 @@
-web: vendor/bin/var-dump-server/
+web: vendor/bin/heroku-php-apache2
