@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36810cd7-65b7-42f8-9f31-d2e93d7cbc83" name="Default Changelist" comment="" />
+    <list default="true" id="36810cd7-65b7-42f8-9f31-d2e93d7cbc83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +60,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpDebugGeneral" xdebug_show_addresses="true" hide_empty_superglobals="false" listening_started="true" />
   <component name="PhpServers">
@@ -149,6 +158,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ZLhOb92raWmcnx3wftU61X0pJX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -158,6 +168,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -243,7 +254,7 @@
       <workItem from="1585280727965" duration="6646000" />
       <workItem from="1585329470690" duration="7851000" />
       <workItem from="1585600674276" duration="3182000" />
-      <workItem from="1585680564428" duration="10638000" />
+      <workItem from="1585680564428" duration="17518000" />
     </task>
     <servers />
   </component>
@@ -295,38 +306,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585176916216" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1585692003147">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1585701332650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1585692003147">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585701332650" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1585701332650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1585692003147">
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585701332650" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1585701332649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1585692003147">
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585701332649" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1585701332650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
-    <state width="1877" height="241" key="GridCell.Tab.1.bottom" timestamp="1585692003148">
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585701332650" />
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom" timestamp="1585699385520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003148" />
-    <state width="1877" height="241" key="GridCell.Tab.1.center" timestamp="1585692003148">
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585699385520" />
+    <state width="1877" height="241" key="GridCell.Tab.1.center" timestamp="1585699385520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003148" />
-    <state width="1877" height="241" key="GridCell.Tab.1.left" timestamp="1585692003147">
+    <state width="1877" height="241" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585699385520" />
+    <state width="1877" height="241" key="GridCell.Tab.1.left" timestamp="1585699385520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003147" />
-    <state width="1877" height="241" key="GridCell.Tab.1.right" timestamp="1585692003148">
+    <state width="1877" height="241" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585699385520" />
+    <state width="1877" height="241" key="GridCell.Tab.1.right" timestamp="1585699385520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585692003148" />
+    <state width="1877" height="241" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585699385520" />
     <state x="688" y="334" key="NewPhpClassDialog" timestamp="1585282442012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -372,6 +383,11 @@
           <url>file://$PROJECT_DIR$/src/Controller/ProjectController.php</url>
           <line>114</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/Controller/ProjectController.php</url>
+          <line>115</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
